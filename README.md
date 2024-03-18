@@ -2,7 +2,7 @@
 
 ## Challenge
 
-To participate and submit to this challenge, register at the [EPIC-Sounds Audio-Based Interaction Detection Codalab Challenge](https://codalab.lisn.upsaclay.fr/competitions/707). The labelled train/val annoations are available on the [EPIC-Sounds annotations repo](https://github.com/epic-kitchens/epic-sounds-annotations).
+To participate and submit to this challenge, register at the [EPIC-Sounds Audio-Based Interaction Detection Codalab Challenge](https://codalab.lisn.upsaclay.fr/competitions/17921). The labelled train/val annoations are available on the [EPIC-Sounds annotations repo](https://github.com/epic-kitchens/epic-sounds-annotations).
 
 This repo is a modified version of the existing [Action Detection Challenge](https://github.com/epic-kitchens/C2-Action-Detection).
 
@@ -59,11 +59,11 @@ In the following, we provide instructions to train/evaluate this baseline.
 
 ### Baseline Requirements
 
-We recommend to use [Anaconda](http://anaconda.org/). You follow the installation steps in the [ActionFormer GitHub](https://github.com/happyharrycn/actionformer_release) to install the necessary packages to run the baseline.
+We recommend to use [Anaconda](http://anaconda.org/). To install the necessary packages to run the baseline, follow the installation steps in the [ActionFormer GitHub](https://github.com/happyharrycn/actionformer_release).
 
 ### Features
 
-We provide auditory slowfast features used train the baseline. You can download the features with: (PENDING)
+We provide auditory slowfast features used train the baseline, which you can download [here](https://www.dropbox.com/scl/fi/eo7fis5zxgaein0r130c2/auditory_slowfast_features.zip?rlkey=ytcb73it8fqatsrzainwda989&dl=0).
 
 Save the features under the path `baseline/data/epic_sounds/auditory_slowfast_features` in this repository.
 
