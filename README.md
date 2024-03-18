@@ -69,7 +69,7 @@ Save the features under the path `baseline/data/epic_sounds/auditory_slowfast_fe
 
 ### Model
 
-You can download the model used to report baseline results in the paper [here](https://www.dropbox.com/scl/fi/uszgvn6xz7l543ald1n0p/EPIC_Sounds_ActionFormer.tar?rlkey=mk08iyfzr1wn5dxs3hwxy82m1&dl=0).
+You can download the model used to report baseline results [here](https://www.dropbox.com/scl/fi/uszgvn6xz7l543ald1n0p/EPIC_Sounds_ActionFormer.tar?rlkey=mk08iyfzr1wn5dxs3hwxy82m1&dl=0).
 
 ### Training
 
