@@ -59,7 +59,7 @@ In the following, we provide instructions to train/evaluate this baseline.
 
 ### Baseline Requirements
 
-We recommend to use [Anaconda](http://anaconda.org/). To install the necessary packages to run the baseline, follow the installation steps in the [ActionFormer GitHub](https://github.com/happyharrycn/actionformer_release).
+We recommend using [Anaconda](http://anaconda.org/). To install the necessary packages to run the baseline, follow the installation steps in the [ActionFormer GitHub](https://github.com/happyharrycn/actionformer_release).
 
 ### Features
 
