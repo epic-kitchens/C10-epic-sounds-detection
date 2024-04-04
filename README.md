@@ -1,4 +1,4 @@
-# C10-Audio-Based-Interaction-Recognition
+# C10-Audio-Based-Interaction-Detection
 
 ## Challenge
 
