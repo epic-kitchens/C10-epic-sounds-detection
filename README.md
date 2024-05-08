@@ -38,7 +38,7 @@ git clone https://github.com/epic-kitchens/epic-sounds-annotations.git $PATH_TO_
 You can then evaluate your json file with:
 
 ```[bash]
-python evaluate_detection_json_ek100.py /path/to/json $PATH_TO_ANNOTATIONS/EPIC_Sounds_validation.pkl
+python audio_based_interaction_detection.py /path/to/json $PATH_TO_ANNOTATIONS/EPIC_Sounds_validation.pkl
 ```
 
 Where `/path/to/json` is the path to the json file to be evaluated and `/path/to/annotations` is the path to the cloned `epic-sounds-annotations` repository.
