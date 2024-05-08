@@ -441,9 +441,9 @@ class InvalidModalityFlagException(ValidationException):
 def validate_submission(
         submission: Dict,
         num_interaction: int,
-        valid_versions: Tuple[str, ...] = ("0.2",),
+        valid_versions: Tuple[str, ...] = ("0.1",),
         supported_challenges: Tuple[str, ...] = (
-                ("action_detection",)
+                ("audio_based_interaction_detection",)
         ),
 ):
     """Validates a submission
