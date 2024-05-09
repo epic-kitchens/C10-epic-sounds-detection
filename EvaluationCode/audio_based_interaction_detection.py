@@ -559,6 +559,7 @@ def main(args):
     groundtruth_df_path = args.path_to_annotations
 
     groundtruth_df: pd.DataFrame = pd.read_pickle(groundtruth_df_path)
+    groundtruth_df = groundtruth_df[groundtruth_df["class"] != "background"]
 
     submission = read_json(args.path_to_json)
 
