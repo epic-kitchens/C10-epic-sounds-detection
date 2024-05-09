@@ -6,8 +6,6 @@ To participate and submit to this challenge, register at the [EPIC-Sounds Audio-
 
 This repo is a modified version of the existing [Action Detection Challenge](https://github.com/epic-kitchens/C2-Action-Detection).
 
-**NOTE:** For this version of the challenge (version "0.1"), the class "background" (class_id=13) has been redacted from the test set. The evaluation code `audio_based_interaction_detection.py` will remove background labels from the evaluation.
-
 ## Evaluation Code
 
 This repository contains the official code to evaluate audio-based interaction detection methods on the EPIC-SOUNDS validation set. Parts of the evaluation code have been adapted from [ActivityNet](https://github.com/activitynet/ActivityNet/blob/master/Evaluation/eval_detection.py).
