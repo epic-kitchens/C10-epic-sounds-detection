@@ -2,7 +2,7 @@
 
 ## Challenge
 
-To participate and submit to this challenge, register at the [EPIC-Sounds Audio-Based Interaction Detection Codabench Challenge](https://www.codabench.org/competitions/13816). The labelled train/val annoations are available on the [EPIC-Sounds annotations repo](https://github.com/epic-kitchens/epic-sounds-annotations).
+To participate and submit to this challenge, register at the [EPIC-Sounds Audio-Based Interaction Detection Codabench Challenge](https://www.codabench.org/competitions/13831). The labelled train/val annoations are available on the [EPIC-Sounds annotations repo](https://github.com/epic-kitchens/epic-sounds-annotations).
 
 This repo is a modified version of the existing [Action Detection Challenge](https://github.com/epic-kitchens/C2-Action-Detection).
 
