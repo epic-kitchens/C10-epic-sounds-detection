@@ -63,7 +63,7 @@ We recommend using [Anaconda](http://anaconda.org/). To install the necessary pa
 
 ### Features
 
-We provide auditory slowfast features used train the baseline, which you can download [here](https://www.dropbox.com/scl/fi/eo7fis5zxgaein0r130c2/auditory_slowfast_features.zip?rlkey=ytcb73it8fqatsrzainwda989&dl=0).
+We provide auditory slowfast features used train the baseline, which you can download [here](https://uob-my.sharepoint.com/:u:/g/personal/jc17360_bristol_ac_uk/IQBTELqPVtedTYRdtGnU8e7CAX9ulWH5OCKkl5i1t3_ofXA?e=GdhJDS).
 
 Save the features under the path `baseline/data/epic_sounds/auditory_slowfast_features` in this repository.
 
